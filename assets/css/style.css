@@ -33,6 +33,7 @@
   margin: 0 auto;
   width: auto;
   text-align: inherit;
+  margin-top: 1.5em;
   /* padding: 10px; */
 }
 
@@ -40,7 +41,7 @@
   margin-left: auto;
   width: 50px;
   height: 50px;
-  border: 0;
+   border: 0;
   color: #FFFFFF;
   cursor: pointer;
   font-size: 30px;
@@ -114,9 +115,9 @@
   font-size: 15px;
   letter-spacing: 1px;
   display: inline-block;
-  margin-top: 1.5em;
-  margin-left: 1.5em;
-  border-radius: 5px;
+  margin-top: 2.5em;
+  margin-left: 0.5em;
+  border-radius: 15px;
   -webkit-border-radius: 5px;
 }
 

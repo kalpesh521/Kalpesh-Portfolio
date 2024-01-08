@@ -80,25 +80,30 @@
  
 /* Buttons - Read Me, Contact Us */
 
-.readme {
+ 
+ 
+
+.contactme {
   position: relative;
   padding: 11px 35px;
-  background: #fff;
-  color: #00796b;
+  background: none;
+  color: #fff;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
   letter-spacing: 1px;
   display: inline-block;
+  margin-top: 1.5em;
+  margin-left: 1.0em;
   border-radius: 5px;
   -webkit-border-radius: 5px;
 }
 
-/* .readme:hover{
-  color: white;
-  background-color: #00796b;
-} */
-
+.contactme:hover{
+  color: #00796b;
+  background-color: white;
+}
+ 
 .contactme {
   position: relative;
   padding: 11px 35px;

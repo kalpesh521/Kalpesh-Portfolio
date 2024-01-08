@@ -112,7 +112,9 @@
   background-color: white;
 }
  
-
+.justify-content {
+  text-align: justify;
+}
 body {
   color: #333;
   font-size: 18px;
